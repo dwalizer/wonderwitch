@@ -1,0 +1,5 @@
+name: hello
+info: hello
+mode: 7
+source: hello.bin
+output: hello.fx
