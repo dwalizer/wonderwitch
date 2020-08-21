@@ -1,0 +1,5 @@
+name: scroll_screen
+info: scroll_screen
+mode: 7
+source: scroll_screen.bin
+output: scroll_screen.fx
