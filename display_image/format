@@ -1,0 +1,4 @@
+#define %s_width %d
+#define %s_height %d
+
+unsigned %s bmp_%s[] = {

@@ -1,0 +1,5 @@
+name: display_image
+info: display_image
+mode: 7
+source: display_image.bin
+output: display_image.fx
